@@ -9,3 +9,5 @@ We believe that the same will happen in the nanofabrication space. Once nanofabr
 Low-cost nanofabrication equipment will not match the level of precision or quality of high-end nanofabrication processes, but it's quite feasible that it could match processes from 15-20 years ago. These would still be very useful for MEMS and lower-performance integrated circuits.
 
 The ultimate goal is to have a set of open-source hardware and software tools that hobbyists can build and use for 1000-2000 USD.
+
+For this to work, we'll need to design many tools which are not accessible to hobbyists yet. These include atomic force microscopes (AFM), maskless photolithography machines, spin coating machines, and atomic layer deposition machines, among many others.
